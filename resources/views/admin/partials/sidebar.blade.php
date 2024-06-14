@@ -69,103 +69,41 @@
 
          {{-- OPD --}}
          <li class="menu-item">
-             <a href="javascript:void(0);" class="menu-link menu-toggle">
-                 <i class="menu-icon tf-icons bx bx-sitemap"></i>
-                 <div data-i18n="Layouts">OPD</div>
+             <a href="cards-basic.html" class="menu-link">
+                 <i class="menu-icon tf-icons bx bx-buildings"></i>
+                 <div data-i18n="Basic">OPD</div>
              </a>
-
-             <ul class="menu-sub">
-                 <li class="menu-item">
-                     <a href="layouts-without-menu.html" class="menu-link">
-                         <div data-i18n="Without menu">Data OPD</div>
-                     </a>
-                 </li>
-                 <li class="menu-item">
-                     <a href="layouts-without-navbar.html" class="menu-link">
-                         <div data-i18n="Without navbar">Kategori OPD</div>
-                     </a>
-                 </li>
-                 <li class="menu-item">
-                     <a href="layouts-container.html" class="menu-link">
-                         <div data-i18n="Container">Aplikasi OPD</div>
-                     </a>
-                 </li>
-                 <li class="menu-item">
-                     <a href="layouts-fluid.html" class="menu-link">
-                         <div data-i18n="Fluid">Kategori Aplikasi OPD</div>
-                     </a>
-                 </li>
-
-             </ul>
          </li>
 
          {{-- Kontak darurat --}}
          <li class="menu-item">
-             <a href="javascript:void(0);" class="menu-link menu-toggle">
-                 <i class="menu-icon tf-icons bx bxs-contact"></i>
-                 <div data-i18n="Account Settings">Kontak Darurat</div>
+             <a href="cards-basic.html" class="menu-link">
+                 <i class="menu-icon tf-icons bx bx-buildings"></i>
+                 <div data-i18n="Basic">Kontak Darurat</div>
              </a>
-             <ul class="menu-sub">
-                 <li class="menu-item">
-                     <a href="pages-account-settings-account.html" class="menu-link">
-                         <div data-i18n="Account">Data Kontak Darurat</div>
-                     </a>
-                 </li>
-                 <li class="menu-item">
-                     <a href="pages-account-settings-notifications.html" class="menu-link">
-                         <div data-i18n="Notifications">Kategori Kontak Darurat</div>
-                     </a>
-                 </li>
-             </ul>
          </li>
 
          {{-- fasilitas daerah --}}
          <li class="menu-item">
-             <a href="javascript:void(0);" class="menu-link menu-toggle">
+             <a href="cards-basic.html" class="menu-link">
                  <i class="menu-icon tf-icons bx bx-buildings"></i>
-                 <div data-i18n="Authentications">Fasilitas Daerah</div>
+                 <div data-i18n="Basic">Fasilitas Daerah</div>
              </a>
-             <ul class="menu-sub">
-                 <li class="menu-item">
-                     <a href="auth-login-basic.html" class="menu-link" target="_blank">
-                         <div data-i18n="Basic">Data Fasilitas Daerah</div>
-                     </a>
-                 </li>
-                 <li class="menu-item">
-                     <a href="auth-register-basic.html" class="menu-link" target="_blank">
-                         <div data-i18n="Basic">Kategori Fasilitas Daerah</div>
-                     </a>
-                 </li>
-             </ul>
          </li>
 
          {{-- User Manage --}}
          <li class="menu-header small text-uppercase"><span class="menu-header-text">Settings</span></li>
          <li class="menu-item">
-             <a href="javascript:void(0);" class="menu-link menu-toggle">
-                 <i class="menu-icon tf-icons bx bx-list-minus"></i>
-                 <div data-i18n="Misc">Menu Manage</div>
+             <a href="cards-basic.html" class="menu-link">
+                 <i class="menu-icon tf-icons bx bx-buildings"></i>
+                 <div data-i18n="Basic">Manage Menu</div>
              </a>
-             <ul class="menu-sub">
-                 <li class="menu-item">
-                     <a href="pages-misc-error.html" class="menu-link">
-                         <div data-i18n="Error">Menu Manage</div>
-                     </a>
-                 </li>
-             </ul>
          </li>
          <li class="menu-item">
-             <a href="javascript:void(0);" class="menu-link menu-toggle">
-                 <i class="menu-icon tf-icons bx bx-user"></i>
-                 <div data-i18n="Misc">User Manage</div>
+             <a href="cards-basic.html" class="menu-link">
+                 <i class="menu-icon tf-icons bx bx-buildings"></i>
+                 <div data-i18n="Basic">Data Users</div>
              </a>
-             <ul class="menu-sub">
-                 <li class="menu-item">
-                     <a href="pages-misc-error.html" class="menu-link">
-                         <div data-i18n="Error">Data Users</div>
-                     </a>
-                 </li>
-             </ul>
          </li>
          <!-- Components -->
          <li class="menu-header small text-uppercase"><span class="menu-header-text">Components</span></li>
